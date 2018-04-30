@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "axios": "^0.18.0"
+  }
+}

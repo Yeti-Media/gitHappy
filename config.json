@@ -1,0 +1,10 @@
+{
+  "serviceName": "Alexa-GitHub",
+  "region": "us-west-1",
+  "TIMEZONE": "America/Los_Angeles",
+  "CRON": "cron(0 * * * ? *)",
+  "GITHUB_REPO": "serverless/blog",
+  "GITHUB_WEBHOOK_SECRET": "Care.12345",
+  "GITHUB_API_TOKEN": "weather-app",
+  "GITHUB_USERNAME": "mosh2151984"
+}
