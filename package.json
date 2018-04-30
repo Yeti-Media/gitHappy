@@ -1,4 +1,10 @@
 {
+  "name": "my-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Yeti-Media/gitHappy",
+  "author": "mosh2151984 <mosh2151984@yahoo.com>",
+  "license": "MIT",
   "dependencies": {
     "alexa-sdk": "^1.0.25",
     "axios": "^0.18.0"
